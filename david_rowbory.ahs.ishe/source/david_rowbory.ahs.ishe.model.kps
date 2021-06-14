@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>14.0.273.0</KeymanDeveloperVersion>
+    <FileVersion>12.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Ishɛ</Name>
+    <Copyright URL="">© 2021 David Rowbory</Copyright>
+    <Author URL="mailto:ishe@m.rowbory.co.uk">David Rowbory</Author>
+    <Version URL="">1.2</Version>
+    <WebSite URL="http://www.rowbory.co.uk">http://www.rowbory.co.uk</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\david_rowbory.ahs.ishe.model.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\AndikaAfr-R.ttf</Name>
+      <Description>Font Andika Afr</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+  </Files>
+  <Keyboards/>
+  <LexicalModels>
+    <LexicalModel>
+      <Name>Ishɛ</Name>
+      <ID>david_rowbory.ahs.ishe</ID>
+      <Languages>
+        <Language ID="ahs">Ishɛ</Language>
+        <Language ID="ha">Hausa</Language>
+      </Languages>
+    </LexicalModel>
+  </LexicalModels>
+  <Strings/>
+</Package>

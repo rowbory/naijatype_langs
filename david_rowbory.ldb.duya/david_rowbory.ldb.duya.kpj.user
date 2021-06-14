@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>2</tab>
+    <showhelp>1</showhelp>
+    <path>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\david_rowbory.ldb.duya.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_f697f25f1fae42e49eb377550f21aafc</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\david_rowbory.ldb.duya.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_186441fc9632cb779530a9d0b219f8af</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\david_rowbory.ldb.duya.model.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d20004929c5d825fc27be0d820263e73</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\david_rowbory.ldb.duya.model_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2bb6b447f1f86aedab00b0203c01fa58</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\..\build\david_rowbory.ldb.duya.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>david_rowbory.ldb.duya.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\david_rowbory.ldb.duya.model.ts</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

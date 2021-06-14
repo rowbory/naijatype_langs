@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>0</tab>
+    <showhelp>0</showhelp>
+    <path>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\all_lexical_models.kpj</path>
+    <file ID="id_MRU0" Expanded="1"/>
+    <file ID="id_MRU1" Expanded="1"/>
+    <file ID="id_MRU4" Expanded="1"/>
+    <file ID="id_c52d3122229c65996b36018d12117c78" Expanded="1"/>
+    <file ID="id_4d0771b93def2c6a3bf9506535e27e8e" Expanded="1"/>
+    <file ID="id_75038b604162db4317aa98a54abc9a00" Expanded="1"/>
+    <file ID="id_bf96bd90facd1eb9ee257630d9d19897" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_584a0fd33cc381f8c0e81473a314b228</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.png.pangu\source\david_rowbory.png.pangu.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\naijatype.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_390b9e3cabbe90bc5e3e49d09eadf91e</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\david_rowbory.ahs.ishe.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_01c3c68760cc8e7cefd52ce7f6e2563c</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\source\david_rowbory.ha-latn.hausa.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\naijatype.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_c52d3122229c65996b36018d12117c78</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\source\david_rowbory.ha-latn.hausa.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_7a9982b9336f5e148f7fddd964b94bd9</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.png.pangu\source\david_rowbory.png.pangu.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_5c762b4572f17aaa4875ead54e1363ff</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\david_rowbory.ahs.ishe.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_1b868d06509e9b03809866cf998c648b</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\build\david_rowbory.ha-latn.hausa.model.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7afb64d69a97e3447fe718abc54441cf</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.png.pangu\build\david_rowbory.png.pangu.model.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3429586b460a9b2e37f672b3456e53aa</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\build\david_rowbory.ahs.ishe.model.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_98ef48da6b3635f7cad36dec3c50ea1e</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\naijatype.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d46e42a4311cd82a62d3e92de9fca266</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\naijatype.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_4d0771b93def2c6a3bf9506535e27e8e</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.en.british_english\source\david_rowbory.en.british_english.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_cc74a58a7c1aaf954b0a3f6c787a1887</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\naijatype.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Andika Afr|10|   |0</CodeFont>
+        <CharFont>Andika New Basic Compact|12|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_2ba7ed42e2b5394ca7df03b767e4ac71</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.en.british_english\source\david_rowbory.en.british_english.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\naijatype.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_75038b604162db4317aa98a54abc9a00</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\david_rowbory.fuv.fulfulde.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_0f113df26aa6d8d872bc9ef103fff83c</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\david_rowbory.fuv.fulfulde.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\naijatype.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_7d1f4787c5b64be2999a489b222c1c7b</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\david_rowbory.en.british_english.model.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c858431ff807328187d8f49ad84f5ef3</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\david_rowbory.fuv.fulfulde.model.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bf96bd90facd1eb9ee257630d9d19897</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\david_rowbory.yes.nyankpa.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_8b14d85dafda91c060243fb659c07c86</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\david_rowbory.yes.nyankpa.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\naijatype.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_66cc299eeec17917f5495b13aa9622d0</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\david_rowbory.ldb.duya.model.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a18450b804261c218c42be5f3443cf07</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\david_rowbory.ldb.duya.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\build\naijatype.js</TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_915f1bae4a1fc1dfdc5d42e8d706a739</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde test\source\david_rowbory.fuv.fulfulde.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Tahoma|8|   |1</CodeFont>
+        <CharFont>Tahoma|8|   |1</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_57ba75f97555d673affa8f1f569273cc</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\source\..\build\david_rowbory.ha-latn.hausa.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_139a1e54b7f105a17a7f68ce26d2ccf3</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4c616f51acf9f44eaa5849501c312b0c</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_196395af1d8675d9f96d166501535fb4</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ha-latn.hausa\source\..\..\..\AndikaAfr-R.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_896dcff381fd2c803aaba73235d50242</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.png.pangu\source\..\build\david_rowbory.png.pangu.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_28cfa1ca711bc7b7e9a1419204e9b55b</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.png.pangu\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4876b6f0634127e83003688f06454164</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.png.pangu\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_101ca687053cba45890e8112bbb07b89</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\..\build\david_rowbory.ahs.ishe.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5a880755992459119f58eeee9d988f7b</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a930558dcd69b0eb144d1e8b938f549d</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_07affd9ee9c68443e93e538b61088ff1</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\..\..\..\AndikaAfr-R.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c4a4f0ecdfb369d9188cebb1dffa4c46</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\doc\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a1941dbc3c2457415ea8590e2a018f1a</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\icons and pictures\naijatype.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bf1a60ce59b3e0e2f52c0ef02b65e539</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\icons and pictures\nigeria unified image 140x250.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_95cf831f348b6975c5b84417c3aeee8b</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\icons and pictures\nigeria unified image.jpg</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_31822045ed303f06d40f773e4588ff2f</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\AndikaAfr-R.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_413d1c0a22bd82eb17e635f75069c7f1</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\..\..\LexicalModels\build\naijatype.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d19a2597f41cebf7fa2371df00693b00</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\..\..\LexicalModels\build\naijatype.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_cb85e9dc72e24ca751e9dc07d585b98b</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.en.british_english\source\..\build\david_rowbory.en.british_english.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b370c29dbc891a36145ca6133f9a5b3c</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.en.british_english\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_43a9030c74f1b0f5fea724f0ec301a92</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.en.british_english\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f50dca32e9a2b89c72e8313c3f0067f2</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\naijatype.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_96d0a312aaf827b23c8aef60fb16271f</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d0c331a273ad189c82fbd500211048d7</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5175b59fb56890cdd4bc503ded8202c9</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\..\..\build\david_rowbory.fuv.fulfulde.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_084451280da8874baec21e359de50cdd</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\..\build\david_rowbory.yes.nyankpa.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_60b2cce46b72a266ef798fb052e705ef</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f8ec24ad8842f7afbd5a232e49f04447</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b36340f878ef52bce775c8585f6fff2c</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\..\build\david_rowbory.ldb.duya.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3477ed63e7daa2a5e6ea3707166bb0ea</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0ccb3603f45c140e9df9723873eb8a5d</ID>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>naijatype.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\naijatype\source\naijatype.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>david_rowbory.en.british_english.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.en.british_english\source\david_rowbory.en.british_english.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>david_rowbory.ahs.ishe.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ahs.ishe\source\david_rowbory.ahs.ishe.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>david_rowbory.fuv.fulfulde.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\david_rowbory.fuv.fulfulde.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>david_rowbory.ldb.duya.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.ldb.duya\source\david_rowbory.ldb.duya.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>david_rowbory.yes.nyankpa.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\david_rowbory.yes.nyankpa.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>david_rowbory.fuv.fulfulde.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde test\source\david_rowbory.fuv.fulfulde.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>david_rowbory.yes.nyankpa.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.yes.nyankpa\source\david_rowbory.yes.nyankpa.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>david_rowbory.fuv.fulfulde.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>\\vmware-host\Shared Folders\Shared Docs\KeyMan Dev\LexicalModels\david_rowbory.fuv.fulfulde\source\david_rowbory.fuv.fulfulde.model.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

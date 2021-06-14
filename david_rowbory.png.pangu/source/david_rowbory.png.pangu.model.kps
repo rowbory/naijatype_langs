@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>14.0.274.0</KeymanDeveloperVersion>
+    <FileVersion>12.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Pangu</Name>
+    <Copyright URL="">© 2021 David Rowbory</Copyright>
+    <Author URL="">David Rowbory</Author>
+    <Version URL="">1.2</Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\david_rowbory.png.pangu.model.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+  </Files>
+  <Keyboards/>
+  <LexicalModels>
+    <LexicalModel>
+      <Name>Pangu</Name>
+      <ID>david_rowbory.png.pangu</ID>
+      <Languages>
+        <Language ID="png">Pongu</Language>
+        <Language ID="ha">Hausa</Language>
+      </Languages>
+    </LexicalModel>
+  </LexicalModels>
+  <Strings/>
+</Package>
